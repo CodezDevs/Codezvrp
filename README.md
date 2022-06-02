@@ -1,0 +1,8 @@
+# Codezvrp
+
+
+IF YOUR SERVER IS VRP AND YOU DO NOT HAVE HOUSES, YOU CAN JUST DRAG THEM INTO [vRP] OR INTO [Other VRP]
+
+
+
+# Codeez Developer VRP
